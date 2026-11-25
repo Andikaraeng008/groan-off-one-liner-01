@@ -7,7 +7,7 @@ in the final phrase: "grilling synonyms".
 
 import os
 
-LINE = "My dad brought a thesaurus to the barbecue and spent the whole afternoon grilling synonyms."
+LINE = "My dad replaced our doorbell with a knock-knock joke, so now every visitor has to finish the punchline before we open the door."
 
 
 def main() -> None:
