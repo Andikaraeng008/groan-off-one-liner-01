@@ -7,7 +7,7 @@ in the final phrase: "grilling synonyms".
 
 import os
 
-LINE = "My dad replaced our doorbell with a knock-knock joke, so now every visitor has to finish the punchline before we open the door."
+LINE = "My dad calls his old car 'the office', so he can tell Mum he's working late every time it breaks down."
 
 
 def main() -> None:
