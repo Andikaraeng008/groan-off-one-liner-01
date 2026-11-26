@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 """The One-Liner Groan-Off entry: write one original one-line dad joke.
 
-One concrete scene (dad at a family barbecue) with the wordplay twist
-in the final phrase: "grilling synonyms".
+One concrete scene (dad buries the TV remote in the garden) with the
+absurd twist in the final phrase: the tomatoes get to watch the family
+argue about what to watch. Line length: 104 characters.
 """
 
 import os
 
-LINE = "My dad calls his old car 'the office', so he can tell Mum he's working late every time it breaks down."
+LINE = "Dad buried the TV remote in the garden so the tomatoes could finally watch us argue about what to watch."
 
 
 def main() -> None:
